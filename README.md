@@ -5,7 +5,7 @@ MyProgressBar
 ## 效果图
 <img src="https://github.com/xqgdmg/MyProgressBar/blob/master/imgs/progress.jpeg" width="320" height="480" alt="图片描述文字"/>
 <br/><br/>
-<img src="https://github.com/xqgdmg/MyProgressBar/blob/master/imgs/progress2.jpeg" width="320" height="480" alt="图片描述文字"/>
+<img src="https://raw.githubusercontent.com/xqgdmg/MyProgressBar/master/imgs/progress2.png" width="320" height="480" alt="图片描述文字"/>
 <br/><br/>
  
  style="?android:attr/progressBarStyleHorizontal"<br/>
