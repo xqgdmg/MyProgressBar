@@ -15,8 +15,8 @@ MyProgressBar
  style="?android:attr/progressBarStyleLargeInverse"<br/>
  style="?android:attr/progressBarStyleSmall"<br/>
  style="?android:attr/progressBarStyleSmallInverse"<br/>
- style="?android:attr/progressBarStyleSmallTitle"<br/>
- <br/>
+ style="?android:attr/progressBarStyleSmallTitle"<br/><br/>
+ 
  最后一个，模仿系统，自定义样式 <br/>
  style="@style/mProgress_horizontal"<br/>
  android:background="@drawable/custom_progressbar_horizontal"<br/><br/>
