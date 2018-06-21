@@ -3,8 +3,7 @@ MyProgressBar
 <br/><br/>
 
 ## 效果图
-
- ![Screenshots](https://github.com/xqgdmg/MyProgressBar/blob/master/imgs/progress.jpeg)
+<img src="https://github.com/xqgdmg/MyProgressBar/blob/master/imgs/progress.jpeg" width="320" height="480" alt="图片描述文字"/>
  <br/><br/>
  
  style="?android:attr/progressBarStyleHorizontal"<br/>
